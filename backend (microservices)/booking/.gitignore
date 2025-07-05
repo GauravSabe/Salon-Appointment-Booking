@@ -33,6 +33,5 @@ build/
 .vscode/
 
 # Ignore secret config files
-**/application.yml
 **/.env
 .env
