@@ -36,4 +36,4 @@ Watch the complete project walkthrough video here: [Click to watch the demo](htt
 
 ## ℹ️ For More Information  
 For detailed information regarding the project, setup, and usage:  
-👉 [Click here](https://your-detailed-docs-or-project-link.com)
+👉 [Click here](https://charmed-meeting-8fe.notion.site/Salon-Appointment-Booking-Full-Stack-Project-With-Microservices-Architecture-227bd756bbcb80249486fa106c6500d7?pvs=143)
